@@ -1,6 +1,4 @@
-# AI-Powered-Stock-Market-Analysis-System
-
-# AI-Powered Portfolio Optimization and Analytics System
+# AI-Powered-Stock-Market-Portfolio Optimization and Analytics System
 
 An advanced financial analysis system that combines artificial intelligence with modern portfolio theory to provide intelligent investment insights and portfolio optimization.
 
